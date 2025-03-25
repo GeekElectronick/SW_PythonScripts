@@ -1,3 +1,8 @@
+# Nick self-add
+
+# sensitive files that could not be shared
+rawFiles/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
